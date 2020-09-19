@@ -5,7 +5,7 @@
 - :mailbox_with_no_mail: How to reach me: webleodev@gmail.com
 
 <a href="https://github.com/webleodev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webleodev&theme=dark&hide_langs_below=1&card_width=400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webleodev&theme=dark&hide_langs_below=1&card_width=350" />
 </a>
 
 <a href="https://github.com/webleodev">
