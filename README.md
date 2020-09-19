@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://github.com/webleodev">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=webleodev&show_icons=true&theme=dark&line_height=40" alt="Albert's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=webleodev&show_icons=true&theme=dark&line_height=32" alt="Albert's github stats"/>
 </a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=webleodev&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
