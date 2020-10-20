@@ -1,8 +1,8 @@
 ## Hello Friend :computer:
 
-- :desktop_computer:  I’m currently working from home
+- :desktop_computer:  I’m currently don't working
 - :computer:  I’m currently learning Frontend Development!
-- :mailbox_with_no_mail: How to reach me: webleodevelop@gmail.com
+- :mailbox_with_no_mail: How to reach me: web.leo.develop@gmail.com
 
 <a href="https://github.com/webleodev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webleodev&theme=dark&hide_langs_below=1&card_width=350" />
